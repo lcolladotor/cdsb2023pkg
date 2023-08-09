@@ -80,7 +80,7 @@ Below is the citation output from using `citation('cdsb2023pkg')` in R. Please
 run this yourself to check for any updates on how to cite __cdsb2023pkg__.
 
 ```{r 'citation', eval = requireNamespace('cdsb2023pkg')}
-print(citation('cdsb2023pkg'), bibtex = TRUE)
+print(citation("cdsb2023pkg"), bibtex = TRUE)
 ```
 
 Please note that the `cdsb2023pkg` was only made possible thanks to many other R and bioinformatics software authors, which are cited either in the vignettes and/or the paper(s) describing this package.

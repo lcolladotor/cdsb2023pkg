@@ -93,7 +93,7 @@ Please run this yourself to check for any updates on how to cite
 **cdsb2023pkg**.
 
 ``` r
-print(citation('cdsb2023pkg'), bibtex = TRUE)
+print(citation("cdsb2023pkg"), bibtex = TRUE)
 #> To cite package 'cdsb2023pkg' in publications use:
 #> 
 #>   lcolladotor (2023). _Demo de biocthis para CDSB2023_.
